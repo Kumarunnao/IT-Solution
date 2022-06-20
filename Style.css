@@ -1,0 +1,117 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.carousel-inner{
+	height: 550px;
+	width: 15%;
+
+}
+.paragraph{
+	text-color: white;
+	font-size: 20px;
+	text-align: justify-all;
+	font-style: Serif;
+}
+.ourservicesheading{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.btnourservices{
+	color: black;
+	background-color: yellow;
+	padding-right: 10px;
+}
+.ourservicessection{
+	background-color: wheat;
+	padding: 1px solid black;
+}
+.about-heading-S{
+	color: bold black;
+	text-align: center;
+}
+.img-fluid{
+	height: 15;
+}
+.aboutusheading5{
+	text-align: center;
+	padding-top: 15px;
+}
+.nvfooter{
+	background-color: black;
+	color: white;
+}
+.text-center{
+	color: whitesmoke;
+}
+
+.SectorSERVICES{
+	background-color: wheat;
+}
+.font-color{
+	color: black;
+	margin: 55px;
+}
+.sectionone{
+	background-color: wheat;
+}
+.ourservicesh2{
+	color: white;
+	background-color: red;
+	width: 45%;
+	
+}
+.ourservicesh3{
+	color: white;
+	background-color: blue;
+
+}
+.sectiontwo{
+	background-color: silver;
+}
+.ourservicesp3p{
+	color: black;
+	font-size: 18px;
+	padding-top: 22px;
+}
+.sectoninner{
+	padding-top: 15%;
+}
+.AboutUsg{
+	background-color: black;
+	color: white;
+}
+.sectionrowcol{
+	background-color: red;
+	padding: 133px;
+	color: white;
+}
+.aboutussectoinas{
+	background-color: floralwhite;
+}
+.ABOUTUSDIVHEADING{
+	text-align: center;
+	background-color: red;
+	color: wheat;
+}
+.aboutussectionclass{
+	text-align: center;
+	width: 560px;
+	background-color: silver;
+}
+.aboutusdectionfirst{
+	background-color: gray;
+}
+.p{
+	text-align: center;
+	color: wheat;
+}
+.h{
+	color: red;
+	background-color: black;
+	text-align: center;
+}
+.body{
+	background-color: wheat;
+}
